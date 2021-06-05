@@ -1,7 +1,6 @@
 # flutter_app
 
-My first flutter app
-This project was a word along with a Crash course from Youtubem https://www.youtube.com/watch?v=1gDhl4leEzA  
+My first flutter app, this project was a word along with a crash course from Youtube https://www.youtube.com/watch?v=1gDhl4leEzA  
 
 ## Getting Started
 
