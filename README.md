@@ -1,4 +1,4 @@
-# flutter_app
+# Random Word pair generator
 
 My first flutter app, this project was a word along with a crash course from Youtube https://www.youtube.com/watch?v=1gDhl4leEzA  
 
